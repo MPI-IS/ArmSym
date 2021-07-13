@@ -45,8 +45,7 @@ ArmSym was developed at the [Brain-Computer Interfaces Group](https://ei.is.tueb
 ArmSym was originally presented in Samuel's master's thesis, "A virtual reality environment for experiments in assistive robotics and neural interfaces".  
 
 ### License
-Please refer to the [MIT License](LICENSE) . 
-ArmSym requires a series of dependencies, which have licenses of their own. 
+Please refer to the [MIT License](LICENSE).
 
 ### Contributing
 We welcome any contribution in the form of a Pull Request. Please don't hesitate to open an issue if you have any problems. 
