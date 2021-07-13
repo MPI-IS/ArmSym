@@ -24,6 +24,7 @@ We release with ArmSym a virtual version of the box and blocks test of manual de
 * Tutorials for researchers in the folder 'Documentation'.
 * A basic toolbox for control in the script *'armsym_robot.cs'*.
 * Three *off-the-shelf* high-level control setups, one for prosthesis mimicking (control mode 0), one for arm imitation also known as inverse kinematics (control mode 1) and a master/slave order system (control mode 2). 
+* One extra [control mode for biosignal integration](https://github.com/SamuelBG13/ArmSym/blob/main/Assets/Scripts/armsym_controlmodes.cs#L212-L218) via LabStreamingLayer.
 * Compatibility with the HTC vive controller and trackers.
 * Hand control.
 * A data management system. 
