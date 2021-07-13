@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1070954308296688}
+  m_IsPrefabParent: 1
+--- !u!1 &1070954308296688
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4604897498548858}
+  - component: {fileID: 114782593585530542}
+  m_Layer: 0
+  m_Name: ControlScript Robot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4604897498548858
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1070954308296688}
+  m_LocalRotation: {x: -0, y: 0.37460664, z: -0, w: 0.9271838}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114782593585530542
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1070954308296688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bbf015c3702f644c9859f1a86f00921, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controlmode: 1
+  thd:
+  - -90
+  - 110
+  - 0
+  - 110
+  - 11
+  - -55
+  - 0
+  joint1: {fileID: 0}
+  joint2: {fileID: 0}
+  joint3: {fileID: 0}
+  joint4: {fileID: 0}
+  joint5: {fileID: 0}
+  joint6: {fileID: 0}
+  joint7: {fileID: 0}
+  T1: {fileID: 0}
+  T2: {fileID: 0}
+  T3: {fileID: 0}
+  T4: {fileID: 0}
+  T5: {fileID: 0}
+  T6: {fileID: 0}
+  T7: {fileID: 0}
+  shouldertracker: {fileID: 0}
+  elbowtracker: {fileID: 0}
+  robolab: {fileID: 0}
+  CurrentTrial: {fileID: 0}
+  DataManagementJointsI: {fileID: 0}
+  DataManagementJointsII: {fileID: 0}
+  DataManagementJoints_Idx: 1800
+  ExperimentMasterScript: {fileID: 0}
+  ControllerGameObject: {fileID: 0}
