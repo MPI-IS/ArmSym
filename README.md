@@ -13,7 +13,7 @@ ArmSym is:
 Welcome! :tada:
 
 ### What is ArmSym?
-ArmSym,  stylized for 'arm simulation', is a Unity project for the HTC Vive.  We have created a simulation of the 7 degrees-of-freedom Barrett WAM robotic arm that features a trial-based system, a data management pipeline, and a user interface.  We tested ArmSym in one perceptual experiment contextualized in the domain of upper-limb prostheses, which we describe in a research paper (in Review).
+ArmSym,  stylized for 'arm simulation', is a Unity project for the HTC Vive.  Using a simulation of a 7 degrees-of-freedom Barrett WAM robotic arm, ArmSym features a trial-based system, a data management pipeline, and a user interface.  We tested ArmSym in one perceptual experiment contextualized in the domain of upper-limb prostheses, which we describe in a research paper.
 
 ### Can I use ArmSym?
 We release the code with the aim of helping researchers design experiments in which a human controls and interacts with a robotic arm. We target scientists who work on high-level upper limb prosthesis control or assistive robotic manipulators mounted on wheelchairs. We do not intend ArmSym's as a clinical tool. 
