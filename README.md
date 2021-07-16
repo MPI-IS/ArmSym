@@ -29,6 +29,8 @@ We release with ArmSym a virtual version of the box and blocks test of manual de
 * Hand control.
 * A data management system. 
 
+We have removed the human skin feature for the time being. Please create an issue if you would like to use it. 
+
 
 ### Requirements
 ArmSym requires a computer [capable of running VR](https://store.steampowered.com/app/323910/SteamVR_Performance_Test/) . We strongly suggest using a good graphics card for Unity and the experiments. GTX 1070/1080 are a good fit.  We also suggest using Unity 2017.3 or older.
